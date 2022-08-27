@@ -1,1 +1,1 @@
-<b><span style="text-align: center;">Hello</span></b>
+<b>For buy domain calling to > rezaparsaq@gmail.com</b>
