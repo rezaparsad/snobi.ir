@@ -1,1 +1,1 @@
-Hello
+<center>Hello</center>
