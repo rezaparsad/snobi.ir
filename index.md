@@ -1,1 +1,1 @@
-<b>Hello</b>
+<b style="text-align: center;" >Hello</b>
