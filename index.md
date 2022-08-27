@@ -1,1 +1,1 @@
-<center>Hello</center>
+<b>Hello</b>
